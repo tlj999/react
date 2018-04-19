@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    background: #21242a;
+    color: #fff;
+    padding:0 5px;
+    float: left;
+}
+li{
+    list-style: none;
+    padding: 8px 20px;
+    border-bottom: 2px solid #cccccc;
+}
+li:nth-last-child(1){
+    border: none;
+}
+li a{
+    color: #fff;
+    text-decoration:none;
+}
+td{
+    padding: 5px 10px;
+}
